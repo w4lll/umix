@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=UMIX
+Comment=A mix of old UNIX, pre-OSX, and Windows 3.x themes
+
+[X-GNOME-Metatheme]
+GtkTheme=UMIX
+MetacityTheme=UMIX
+IconTheme=UMIX
+CursorTheme=mate-black
+ButtonLayout=:minimize,close
+
+[Settings]
+gtk-theme-name=UMIX
